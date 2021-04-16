@@ -1,5 +1,7 @@
 # smis
 
+## DESCRIPTION
+
 ## Project setup
 ```
 npm install
